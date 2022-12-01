@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Her's my [CV](https://drive.google.com/file/d/1nDopZIhFGm4jeg0LFy31ATct-TBrpbKB/view?usp=sharing)
+Here's my [CV](https://drive.google.com/file/d/1nDopZIhFGm4jeg0LFy31ATct-TBrpbKB/view?usp=sharing)
 
 <!--
 **youngseo0526/youngseo0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
