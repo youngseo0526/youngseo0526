@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here's my [CV](https://github.com/youngseo0526/youngseo0526/blob/main/cv.pdf)
+Here's my [CV]([https://github.com/youngseo0526/youngseo0526/blob/main/cv.pdf](https://youngseo0526.github.io/files/CV_YoungseoKim.pdf))
 
 <!--
 **youngseo0526/youngseo0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
